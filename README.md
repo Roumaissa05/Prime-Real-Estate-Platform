@@ -256,20 +256,10 @@ copies or substantial portions of the Software.
 
 ---
 
-## 📞 Contact | تواصل معنا
-
-**Prime Real Estate | برايم للعقارات**
-
-- 📍 King Fahd Road, Kingdom Tower, Riyadh, Saudi Arabia
-- 📞 +966 11 000 0000
-- 📧 info@primerealestate.com
-- 🌐 [www.primerealestate.com](https://primerealestate.com)
-
----
 
 <div align="center">
 
-**Made with ❤️ in Riyadh | صُنع بحب في الرياض**
+**Made with ❤️ dv-roumaissa | صُنع بحب في الرياض**
 
 [⬆ Back to Top](#-prime-real-estate--برايم-للعقارات)
 
